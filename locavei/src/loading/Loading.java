@@ -23,7 +23,7 @@ public class Loading {
     }
     
     //----- INSERT SYMBOL ------------------------------------------------------
-    public void simbolo(int num_linhas){ // esta linha irá iseri um ponto na execução do codigo em determinado local.  
+    public void simbolo(int num_linhas){ // esta linha irá iseri um caractere na execução do codigo em determinado local.  
         for(int lin = 0; lin < num_linhas; lin++){
             System.out.print("_");            
         }          
