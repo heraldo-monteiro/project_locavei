@@ -1,7 +1,7 @@
     
 /** Os Valores estão determinados como tipo inteiro (não usar outros tipos de valores)   
     [num_linhas] - Insere um de terminado números de linhas
-    [num_simbolo] - Insere um de terminado números de linhas
+    [num_simbolo] - Insere um de terminado números de símbolos
     [num_seconds] - Insere o tempo em segundos entre cada lina
     (quanto maior o valor informado, maior será o tempo de execução entre as linhas)      
     */
